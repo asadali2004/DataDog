@@ -29,7 +29,7 @@ Datadog is a powerful cloud-based monitoring and observability platform for serv
 
 - ✅ Windows 10/11 with **Docker Desktop** installed and running.
 - ✅ [Datadog Free Trial](https://www.datadoghq.com/free-trial/)
-- ✅ Your API Key (e.g., `958c76594ec8f89f245da89c4343ff70`)
+- ✅ Your API Key (e.g., `your_DD_api_key`)
 - ✅ Your Datadog Site: `datadoghq.com`
 
 ---
